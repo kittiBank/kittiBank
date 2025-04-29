@@ -7,13 +7,14 @@
 ---
 
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&style=for-the-badge" />
+### 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
 
 ---
 
