@@ -31,4 +31,4 @@
 📧 your@email.com
 
 ### Contribution Snake
-![GitHub Snake](https://raw.githubusercontent.com/yourusername/snk/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/kittiBank/snk/output/github-contribution-grid-snake.svg)
