@@ -29,6 +29,3 @@
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourname)  
 📧 your@email.com
-
-### Contribution Snake
-![GitHub Snake](https://raw.githubusercontent.com/kittiBank/snk/output/github-contribution-grid-snake.svg)
