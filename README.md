@@ -1,31 +1,48 @@
-# 👋 Hello, I'm Mr.Kittitad Promwan (Bank)!
+# Hello, I'm Kittitad Promwan (ฺBank)
 
-💻 A passionate Full Stack Developer from Thailand 🇹🇭  
-🌱 Currently learning: NestJS, Next.js, and Cloud Deployment  
-🎯 Goal: Land my first Dev job in 2025!
+## 👨‍💻 About Me
+I'm a Junior Web Developer passionate about building clean, user-friendly, and scalable web applications. I enjoy working across the stack, from creating beautiful frontends to building solid backends.
 
----
-
-
-### 💻 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
+- Currently working on: My portfolio and personal projects
+- Currently learning: React, ExpresJS
+- How to reach me: [kittitach.pro@gmail.com](mailto:kittitach.pro@gmail.com)
+- Based in: Bangkok, Thailand
 
 ---
 
+## 🛠️ Tech Stack
+### Frontend
+- React, HTML5, CSS3, JavaScript, Tailwind CSS
 
-### 🚀 Projects
-- 🧩 [Portfolio Website](https://yourportfolio.com) — built with React + Tailwind
-- 📊 [Finance Tracker App](https://github.com/yourusername/fintrack) — MERN stack + JWT Auth
+### Backend
+- Node.js, Express.js, REST API
+
+### Database
+- MongoDB, MySQL, PostgreSQL
+
+### Tools & Others
+- Git, GitHub, VS Code, Postman, Jasper Report
 
 ---
 
+## 📁 Featured Projects
 
-### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourname)  
-📧 your@email.com
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Portfolio Website](https://kittipr.vercel.app/) | My personal portfolio built with React & Tailwind | React, Tailwind CSS |
+| [E-Commerce App](https://github.com/kittiBank/ecomerce_workshop) | A fullstack e-commerce webapp with productlist, user login, CRUD operations | React, ExpressJS, JWT |
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kittiBank&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittiBank&layout=compact&theme=github_dark)
+
+---
+
+## 🤝 Let's Connect!
+
+- LinkedIn: [linkedin.com/in/kittitad-dev](https://www.linkedin.com/in/kittitad-dev/)
+- Portfolio: [kittipr.vercel.app](https://kittipr.vercel.app/)
