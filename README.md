@@ -1,4 +1,4 @@
-# Hello, I'm Kittitad Promwan (ฺBank)
+# Hello, I'm Kittitad Promwan (Bank)
 
 ## 👨‍💻 About Me
 I'm a Junior Web Developer passionate about building clean, user-friendly, and scalable web applications. I enjoy working across the stack, from creating beautiful frontends to building solid backends.
@@ -12,16 +12,17 @@ I'm a Junior Web Developer passionate about building clean, user-friendly, and s
 
 ## 🛠️ Tech Stack
 ### Frontend
-- React, HTML5, CSS3, JavaScript, Tailwind CSS
+- React, NextJS, HTML5, CSS3, JavaScript, Tailwind CSS
 
 ### Backend
-- Node.js, Express.js, REST API
+- Node.js, Express.js, Nest.js, REST API
 
 ### Database
 - MongoDB, MySQL, PostgreSQL
 
 ### Tools & Others
-- Git, GitHub, VS Code, Postman, Jasper Report
+- Git, GitHub, VS Code, Postman, Jasper Report, Crystal report
+- Agile, scrum 
 
 ---
 
