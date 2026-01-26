@@ -1,10 +1,9 @@
 # Hello, I'm Kittitad Promwan (Bank)
 
-## 👨‍💻 About Me
-I'm a Junior Web Developer passionate about building clean, user-friendly, and scalable web applications. I enjoy working across the stack, from creating beautiful frontends to building solid backends.
+## 👨‍💻About Me
+I'm Full-stack developer passionate about building clean, user-friendly, and scalable web applications. I enjoy working across the stack, from creating beautiful frontends to building solid backends.
 
-- Currently working on: My portfolio and personal projects
-- Currently learning: React, ExpresJS
+- Currently working on: Develop personal project
 - How to reach me: [kittitach.pro@gmail.com](mailto:kittitach.pro@gmail.com)
 - Based in: Bangkok, Thailand
 
@@ -12,7 +11,7 @@ I'm a Junior Web Developer passionate about building clean, user-friendly, and s
 
 ## 🛠️ Tech Stack
 ### Frontend
-- React, NextJS, HTML5, CSS3, JavaScript, Tailwind CSS
+- React, Vue, NextJS, HTML, CSS, JavaScript, Tailwind, Axios
 
 ### Backend
 - Node.js, Express.js, Nest.js, REST API
@@ -35,7 +34,7 @@ I'm a Junior Web Developer passionate about building clean, user-friendly, and s
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kittiBank&show_icons=true&theme=github_dark)
 
@@ -43,7 +42,7 @@ I'm a Junior Web Developer passionate about building clean, user-friendly, and s
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 - LinkedIn: [linkedin.com/in/kittitad-dev](https://www.linkedin.com/in/kittitad-dev/)
 - Portfolio: [kittipr.vercel.app](https://kittipr.vercel.app/)
