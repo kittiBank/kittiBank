@@ -49,7 +49,7 @@ Passionate Full-Stack Developer with expertise in building scalable web applicat
 
 ## GitHub Stats
 
-![Bank's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kittiBank&show_icons=true&theme=radical)
+![Bank's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kittiBank&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kittiBank&layout=compact)
 
